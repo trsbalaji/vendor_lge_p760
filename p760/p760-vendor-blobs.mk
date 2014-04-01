@@ -44,9 +44,6 @@ PRODUCT_COPY_FILES += \
     vendor/lge/p760/proprietary/vendor/lib/libpvr2d_SGX540_120.so:system/vendor/lib/libpvr2d_SGX540_120.so \
     vendor/lge/p760/proprietary/vendor/lib/liblvvetx.so:system/vendor/lib/liblvvetx.so \
     vendor/lge/p760/proprietary/vendor/lib/libsmapi.so:system/vendor/lib/libsmapi.so \
- vendor/lge/p760/proprietary/etc/firmware/fmc_init_1273.2.bts:system/etc/firmware/fmc_init_1273.2.bts \
-     vendor/lge/p760/proprietary/etc/firmware/fm_tx_init_1273.2.bts:system/etc/firmware/fm_tx_init_1273.2.bts \
-     vendor/lge/p760/proprietary/etc/firmware/fm_rx_init_1273.2.bts:system/etc/firmware/fm_rx_init_1273.2.bts \
     vendor/lge/p760/proprietary/vendor/lib/libsrv_um_SGX540_120.so:system/vendor/lib/libsrv_um_SGX540_120.so \
     vendor/lge/p760/proprietary/vendor/lib/libusc_SGX540_120.so:system/vendor/lib/libusc_SGX540_120.so \
     vendor/lge/p760/proprietary/vendor/lib/libtf_crypto_sst.so:system/vendor/lib/libtf_crypto_sst.so \
@@ -54,7 +51,6 @@ PRODUCT_COPY_FILES += \
     vendor/lge/p760/proprietary/vendor/lib/egl/libEGL_POWERVR_SGX540_120.so:system/vendor/lib/egl/libEGL_POWERVR_SGX540_120.so \
     vendor/lge/p760/proprietary/vendor/lib/egl/libGLESv1_CM_POWERVR_SGX540_120.so:system/vendor/lib/egl/libGLESv1_CM_POWERVR_SGX540_120.so \
     vendor/lge/p760/proprietary/vendor/bin/pvrsrvinit_SGX540_120:system/vendor/bin/pvrsrvinit_SGX540_120 \
-    vendor/lge/p760/proprietary/vendor/bin/pvrsrvctl_SGX540_120:system/vendor/bin/pvrsrvctl_SGX540_120 \
     vendor/lge/p760/proprietary/vendor/bin/pvrsrvinit:system/vendor/bin/pvrsrvinit \
     vendor/lge/p760/proprietary/bin/sensord:system/bin/sensord \
     vendor/lge/p760/proprietary/bin/glgps:system/bin/glgps \
